@@ -1,5 +1,10 @@
 # LGBtrainer helps you find hyper params for LGBM and simplifies the process of training the model and finding hyperparams.
 
+```
+pip install LGBtrainer
+```
+
+
 * Parameters:-
 
 1. train = it should be your train dataset(which is fit for training purpose)
